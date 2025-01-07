@@ -1,6 +1,5 @@
 # Explore Tourist Destinations
 
-Demo Link - https://jayeshmahawer.github.io/Tourist-Destination-Website/
 
 Explore Tourist Destinations is a web application that allows users to discover popular tourist locations around the world. The application features a responsive design, a search functionality, and a dynamic gallery of destinations.
 
